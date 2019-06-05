@@ -1,4 +1,4 @@
-##Quick Starte
+##Quick Start
 
 dependencias instaladas en este proyecto:
 (`npm install bootstrap font-awesome jquery popper.js`)
