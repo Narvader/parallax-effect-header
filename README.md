@@ -1,4 +1,4 @@
-##Quick Starter kit Gulp
+##Quick Starte
 
 dependencias instaladas en este proyecto:
 (`npm install bootstrap font-awesome jquery popper.js`)
